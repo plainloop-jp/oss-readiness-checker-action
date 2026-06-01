@@ -23,3 +23,11 @@ is inside a subdirectory:
 ## License
 
 [MIT](LICENSE)
+
+## Contributing
+
+Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Security
+
+For security reports, see [SECURITY.md](SECURITY.md).
