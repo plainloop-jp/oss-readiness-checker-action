@@ -8,14 +8,14 @@ automatically in GitHub Actions.
 Add this step after `actions/checkout`:
 
 ```yaml
-- uses: plainloop-jp/oss-readiness-checker-action@v0.3.0
+- uses: plainloop-jp/oss-readiness-checker-action@v0.3.1
 ```
 
 By default, the action checks the repository root. Use `path` when the project
 is inside a subdirectory:
 
 ```yaml
-- uses: plainloop-jp/oss-readiness-checker-action@v0.3.0
+- uses: plainloop-jp/oss-readiness-checker-action@v0.3.1
   with:
     path: ./packages/example
 ```
