@@ -20,6 +20,12 @@ is inside a subdirectory:
     path: ./packages/example
 ```
 
+## Example
+
+OSS Readiness Checker uses this Marketplace action in its own CI. See the
+[workflow file](https://github.com/plainloop-jp/oss-readiness-checker/blob/main/.github/workflows/ci.yml)
+and [workflow runs](https://github.com/plainloop-jp/oss-readiness-checker/actions/workflows/ci.yml).
+
 ## License
 
 [MIT](LICENSE)
